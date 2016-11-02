@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Skywell Test</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="news">News</string>
+    <string name="owner_name">Name</string>
+    <string name="owner_birth">Birthday</string>
+    <string name="owner_status">Status</string>
+    <string name="owner_friends">Friends</string>
+    <string name="owner_followers">Followers</string>
+    <string name="owner_groups">Groups</string>
+    <string name="owner_photos">Photos</string>
+    <string name="education">Education</string>
+    <string name="read_more">Read more</string>
+    <string name="logout">Logout</string>
+    <string name="internet_problem">Internet problem :(</string>
+</resources>

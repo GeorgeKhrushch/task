@@ -1,0 +1,29 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="attachment_margins">10dp</dimen>
+    <dimen name="load_icon_medium">100px</dimen>
+    <dimen name="load_icon_small">50px</dimen>
+    <dimen name="load_icon_large">65dp</dimen>
+    <dimen name="navigation_drawer_width">280dp</dimen>
+    <dimen name="footer_menu_height">44dp</dimen>
+    <dimen name="actionBarSize">56dp</dimen>
+    <dimen name="image_final_width">45dp</dimen>
+    <dimen name="news_padding">10dp</dimen>
+    <dimen name="message_paddings">15dp</dimen>
+    <dimen name="text_size_name">19sp</dimen>
+    <dimen name="text_size_date">13sp</dimen>
+    <dimen name="fullOwnerBottomMargin">50dp</dimen>
+    <dimen name="halfOwnerBottomMargin">35dp</dimen>
+    <dimen name="smallOwnerBottomMargin">15dp</dimen>
+    <dimen name="footer_button_width">70dp</dimen>
+    <dimen name="footer_button_height">40dp</dimen>
+    <dimen name="dialog_message_margin">7dp</dimen>
+    <dimen name="drawable_padding">5dp</dimen>
+    <dimen name="progress_bar_margin">50dp</dimen>
+</resources>

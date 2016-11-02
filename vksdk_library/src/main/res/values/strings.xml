@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="vk_name">VK</string>
+    <string name="vk_enter_captcha_text">Enter captcha text here</string>
+    <string name="vk_retry">Retry</string>
+    <string name="vk_send">SEND</string>
+    <string name="vk_share">Share</string>
+    <string name="vk_new_message_text">Enter your message..</string>
+    <string name="vk_new_post_settings">Post settings</string>
+    <string name="chat_action_create">created chat.</string>
+    <string name="chat_action_you">You</string>
+    <string name="chat_new_name">New chat name is</string>
+    <string name="chat_user_left">User left chat</string>
+    <string name="chat_has_been_invited">has been invited</string>
+    <string name="chat_user">User</string>
+
+</resources>
